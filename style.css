@@ -1032,6 +1032,8 @@ body {
   margin: 2% auto 0;
   max-width: 96%;
   margin-bottom: 8%;
+  border: 2px solid #000;
+  background-color: #000;
 }
 .c-invitation-detail__photo {
   width: 100%;
