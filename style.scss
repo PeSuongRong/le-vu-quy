@@ -354,10 +354,9 @@ body {
   }
 
   &__date {
-    width: 352px;
-    margin: 2% auto 0;
+    width: 400px;
+    margin: 2% auto 8%;
     max-width: 96%;
-    margin-bottom: 8%;
     position: relative;
     z-index: 1;
   }
@@ -386,10 +385,10 @@ body {
   }
 
   &__photo {
-    width: 100%;
+    width: 96%;
     display: block;
     float: left;
-    margin-bottom: 8%;
+    margin: 0 2% 8%;
 
     li {
       float: left;
