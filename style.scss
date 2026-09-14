@@ -43,7 +43,7 @@ body {
   position: relative;
   overflow: hidden;
   isolation: isolate;
-  
+
   &.is-hide {
     display: none;
   }
@@ -278,6 +278,7 @@ body {
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 5%;
+    margin-top: 8%;
   }
 
   &__list {
@@ -355,13 +356,13 @@ body {
 
   &__date {
     width: 400px;
-    margin: 2% auto 8%;
+    margin: 2% auto 3%;
     max-width: 96%;
     position: relative;
     z-index: 1;
   }
 
-  &__flower3{
+  &__flower3 {
     right: 100%;
     position: absolute;
     top: 80%;
@@ -379,7 +380,7 @@ body {
     height: 300px;
     margin: 2% auto 0;
     max-width: 96%;
-    margin-bottom: 8%;
+    margin-bottom: 5%;
     border: 2px solid #000;
     background-color: #000;
   }
@@ -421,11 +422,11 @@ body {
     }
 
     &__name {
-      & > p {
+      &>p {
         font-size: 10vw;
       }
 
-      & > span {
+      &>span {
         font-size: 8vw;
       }
     }
