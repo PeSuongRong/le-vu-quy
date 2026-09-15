@@ -299,6 +299,10 @@ body {
 
   &__tx3 {
     font-size: 18px;
+
+    & + & {
+      margin-top: 2%;
+    }
   }
 
   &__tx5 {

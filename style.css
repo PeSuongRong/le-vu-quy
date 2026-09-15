@@ -171,680 +171,680 @@ body {
           animation: invitation-spot linear infinite;
 }
 .c-invitation__spots:nth-child(1) {
-  width: 6px;
-  height: 6px;
-  left: 57%;
-  top: 37%;
-  background: hsla(137, 51%, 64%, 0.8);
-  --move-x: -12px;
-  --move-y: -65px;
-  -webkit-animation-duration: 2652ms;
-          animation-duration: 2652ms;
-  -webkit-animation-delay: -111ms;
-          animation-delay: -111ms;
+  width: 4px;
+  height: 4px;
+  left: 33%;
+  top: 73%;
+  background: hsla(341, 63%, 65%, 0.8);
+  --move-x: 26px;
+  --move-y: 51px;
+  -webkit-animation-duration: 4423ms;
+          animation-duration: 4423ms;
+  -webkit-animation-delay: -194ms;
+          animation-delay: -194ms;
 }
 .c-invitation__spots:nth-child(2) {
-  width: 6px;
-  height: 6px;
-  left: 4%;
-  top: 42%;
-  background: hsla(353, 70%, 67%, 0.8);
-  --move-x: -68px;
-  --move-y: -61px;
-  -webkit-animation-duration: 2873ms;
-          animation-duration: 2873ms;
-  -webkit-animation-delay: -2645ms;
-          animation-delay: -2645ms;
+  width: 8px;
+  height: 8px;
+  left: 55%;
+  top: 39%;
+  background: hsla(355, 57%, 62%, 0.8);
+  --move-x: 43px;
+  --move-y: -53px;
+  -webkit-animation-duration: 3451ms;
+          animation-duration: 3451ms;
+  -webkit-animation-delay: -1375ms;
+          animation-delay: -1375ms;
 }
 .c-invitation__spots:nth-child(3) {
-  width: 16px;
-  height: 16px;
-  left: 25%;
-  top: 88%;
-  background: hsla(214, 57%, 57%, 0.8);
-  --move-x: -4px;
-  --move-y: -75px;
-  -webkit-animation-duration: 3244ms;
-          animation-duration: 3244ms;
-  -webkit-animation-delay: -3197ms;
-          animation-delay: -3197ms;
+  width: 7px;
+  height: 7px;
+  left: 51%;
+  top: 4%;
+  background: hsla(305, 65%, 74%, 0.8);
+  --move-x: 67px;
+  --move-y: 80px;
+  -webkit-animation-duration: 2644ms;
+          animation-duration: 2644ms;
+  -webkit-animation-delay: -252ms;
+          animation-delay: -252ms;
 }
 .c-invitation__spots:nth-child(4) {
-  width: 8px;
-  height: 8px;
-  left: 43%;
-  top: 58%;
-  background: hsla(166, 53%, 73%, 0.8);
-  --move-x: -47px;
-  --move-y: 17px;
-  -webkit-animation-duration: 3080ms;
-          animation-duration: 3080ms;
-  -webkit-animation-delay: -2192ms;
-          animation-delay: -2192ms;
+  width: 4px;
+  height: 4px;
+  left: 81%;
+  top: 98%;
+  background: hsla(142, 56%, 71%, 0.8);
+  --move-x: 63px;
+  --move-y: 60px;
+  -webkit-animation-duration: 4224ms;
+          animation-duration: 4224ms;
+  -webkit-animation-delay: -1668ms;
+          animation-delay: -1668ms;
 }
 .c-invitation__spots:nth-child(5) {
-  width: 17px;
-  height: 17px;
-  left: 76%;
-  top: 86%;
-  background: hsla(71, 79%, 62%, 0.8);
-  --move-x: 55px;
-  --move-y: 47px;
-  -webkit-animation-duration: 2658ms;
-          animation-duration: 2658ms;
-  -webkit-animation-delay: -2362ms;
-          animation-delay: -2362ms;
+  width: 10px;
+  height: 10px;
+  left: 86%;
+  top: 21%;
+  background: hsla(168, 57%, 75%, 0.8);
+  --move-x: 64px;
+  --move-y: -39px;
+  -webkit-animation-duration: 3601ms;
+          animation-duration: 3601ms;
+  -webkit-animation-delay: -2142ms;
+          animation-delay: -2142ms;
 }
 .c-invitation__spots:nth-child(6) {
-  width: 15px;
-  height: 15px;
-  left: 60%;
-  top: 82%;
-  background: hsla(52, 67%, 59%, 0.8);
-  --move-x: 26px;
-  --move-y: 8px;
-  -webkit-animation-duration: 4183ms;
-          animation-duration: 4183ms;
-  -webkit-animation-delay: -173ms;
-          animation-delay: -173ms;
-}
-.c-invitation__spots:nth-child(7) {
-  width: 4px;
-  height: 4px;
-  left: 32%;
-  top: 16%;
-  background: hsla(150, 78%, 63%, 0.8);
-  --move-x: 38px;
-  --move-y: -64px;
-  -webkit-animation-duration: 2051ms;
-          animation-duration: 2051ms;
-  -webkit-animation-delay: -3461ms;
-          animation-delay: -3461ms;
-}
-.c-invitation__spots:nth-child(8) {
-  width: 9px;
-  height: 9px;
-  left: 51%;
-  top: 88%;
-  background: hsla(59, 79%, 62%, 0.8);
-  --move-x: 47px;
-  --move-y: -56px;
-  -webkit-animation-duration: 3565ms;
-          animation-duration: 3565ms;
-  -webkit-animation-delay: -677ms;
-          animation-delay: -677ms;
-}
-.c-invitation__spots:nth-child(9) {
-  width: 6px;
-  height: 6px;
-  left: 41%;
-  top: 54%;
-  background: hsla(275, 71%, 68%, 0.8);
-  --move-x: -36px;
-  --move-y: 11px;
-  -webkit-animation-duration: 3684ms;
-          animation-duration: 3684ms;
-  -webkit-animation-delay: -3969ms;
-          animation-delay: -3969ms;
-}
-.c-invitation__spots:nth-child(10) {
-  width: 13px;
-  height: 13px;
-  left: 85%;
-  top: 64%;
-  background: hsla(222, 51%, 64%, 0.8);
-  --move-x: 11px;
-  --move-y: -61px;
-  -webkit-animation-duration: 2672ms;
-          animation-duration: 2672ms;
-  -webkit-animation-delay: -830ms;
-          animation-delay: -830ms;
-}
-.c-invitation__spots:nth-child(11) {
-  width: 6px;
-  height: 6px;
-  left: 47%;
-  top: 90%;
-  background: hsla(325, 52%, 74%, 0.8);
-  --move-x: -44px;
-  --move-y: 78px;
-  -webkit-animation-duration: 3816ms;
-          animation-duration: 3816ms;
-  -webkit-animation-delay: -2128ms;
-          animation-delay: -2128ms;
-}
-.c-invitation__spots:nth-child(12) {
-  width: 12px;
-  height: 12px;
-  left: 93%;
-  top: 20%;
-  background: hsla(55, 58%, 73%, 0.8);
-  --move-x: 39px;
-  --move-y: 66px;
-  -webkit-animation-duration: 3081ms;
-          animation-duration: 3081ms;
-  -webkit-animation-delay: -1318ms;
-          animation-delay: -1318ms;
-}
-.c-invitation__spots:nth-child(13) {
-  width: 7px;
-  height: 7px;
-  left: 24%;
-  top: 91%;
-  background: hsla(108, 63%, 75%, 0.8);
-  --move-x: -33px;
-  --move-y: 24px;
-  -webkit-animation-duration: 4232ms;
-          animation-duration: 4232ms;
-  -webkit-animation-delay: -1769ms;
-          animation-delay: -1769ms;
-}
-.c-invitation__spots:nth-child(14) {
-  width: 14px;
-  height: 14px;
-  left: 8%;
-  top: 47%;
-  background: hsla(49, 70%, 66%, 0.8);
-  --move-x: 69px;
-  --move-y: 24px;
-  -webkit-animation-duration: 3421ms;
-          animation-duration: 3421ms;
-  -webkit-animation-delay: -2346ms;
-          animation-delay: -2346ms;
-}
-.c-invitation__spots:nth-child(15) {
-  width: 16px;
-  height: 16px;
-  left: 88%;
-  top: 81%;
-  background: hsla(69, 71%, 77%, 0.8);
-  --move-x: -61px;
-  --move-y: 39px;
-  -webkit-animation-duration: 3238ms;
-          animation-duration: 3238ms;
-  -webkit-animation-delay: -2018ms;
-          animation-delay: -2018ms;
-}
-.c-invitation__spots:nth-child(16) {
-  width: 8px;
-  height: 8px;
-  left: 70%;
-  top: 29%;
-  background: hsla(51, 69%, 60%, 0.8);
-  --move-x: 60px;
-  --move-y: 76px;
-  -webkit-animation-duration: 3390ms;
-          animation-duration: 3390ms;
-  -webkit-animation-delay: -3430ms;
-          animation-delay: -3430ms;
-}
-.c-invitation__spots:nth-child(17) {
-  width: 15px;
-  height: 15px;
-  left: 33%;
-  top: 57%;
-  background: hsla(146, 64%, 71%, 0.8);
-  --move-x: -73px;
-  --move-y: 24px;
-  -webkit-animation-duration: 2667ms;
-          animation-duration: 2667ms;
-  -webkit-animation-delay: -753ms;
-          animation-delay: -753ms;
-}
-.c-invitation__spots:nth-child(18) {
-  width: 6px;
-  height: 6px;
-  left: 1%;
-  top: 25%;
-  background: hsla(297, 66%, 73%, 0.8);
-  --move-x: 21px;
-  --move-y: 24px;
-  -webkit-animation-duration: 3498ms;
-          animation-duration: 3498ms;
-  -webkit-animation-delay: -1734ms;
-          animation-delay: -1734ms;
-}
-.c-invitation__spots:nth-child(19) {
-  width: 11px;
-  height: 11px;
-  left: 53%;
-  top: 64%;
-  background: hsla(44, 73%, 78%, 0.8);
-  --move-x: 66px;
-  --move-y: -57px;
-  -webkit-animation-duration: 3614ms;
-          animation-duration: 3614ms;
-  -webkit-animation-delay: -2349ms;
-          animation-delay: -2349ms;
-}
-.c-invitation__spots:nth-child(20) {
-  width: 4px;
-  height: 4px;
-  left: 64%;
-  top: 88%;
-  background: hsla(214, 71%, 57%, 0.8);
-  --move-x: -36px;
-  --move-y: 54px;
-  -webkit-animation-duration: 4089ms;
-          animation-duration: 4089ms;
-  -webkit-animation-delay: -3415ms;
-          animation-delay: -3415ms;
-}
-.c-invitation__spots:nth-child(21) {
   width: 5px;
   height: 5px;
-  left: 21%;
-  top: 78%;
-  background: hsla(220, 52%, 60%, 0.8);
-  --move-x: -71px;
-  --move-y: -46px;
-  -webkit-animation-duration: 4092ms;
-          animation-duration: 4092ms;
-  -webkit-animation-delay: -1408ms;
-          animation-delay: -1408ms;
+  left: 60%;
+  top: 9%;
+  background: hsla(14, 77%, 59%, 0.8);
+  --move-x: -56px;
+  --move-y: 31px;
+  -webkit-animation-duration: 4223ms;
+          animation-duration: 4223ms;
+  -webkit-animation-delay: -163ms;
+          animation-delay: -163ms;
 }
-.c-invitation__spots:nth-child(22) {
-  width: 7px;
-  height: 7px;
-  left: 92%;
-  top: 76%;
-  background: hsla(148, 74%, 65%, 0.8);
-  --move-x: -67px;
-  --move-y: -34px;
-  -webkit-animation-duration: 4211ms;
-          animation-duration: 4211ms;
-  -webkit-animation-delay: -2177ms;
-          animation-delay: -2177ms;
-}
-.c-invitation__spots:nth-child(23) {
-  width: 6px;
-  height: 6px;
-  left: 88%;
-  top: 41%;
-  background: hsla(244, 78%, 68%, 0.8);
-  --move-x: 74px;
-  --move-y: -28px;
-  -webkit-animation-duration: 3082ms;
-          animation-duration: 3082ms;
-  -webkit-animation-delay: -1773ms;
-          animation-delay: -1773ms;
-}
-.c-invitation__spots:nth-child(24) {
-  width: 17px;
-  height: 17px;
-  left: 16%;
-  top: 14%;
-  background: hsla(276, 70%, 61%, 0.8);
-  --move-x: 20px;
-  --move-y: 58px;
-  -webkit-animation-duration: 4120ms;
-          animation-duration: 4120ms;
-  -webkit-animation-delay: -1336ms;
-          animation-delay: -1336ms;
-}
-.c-invitation__spots:nth-child(25) {
+.c-invitation__spots:nth-child(7) {
   width: 8px;
   height: 8px;
-  left: 12%;
-  top: 90%;
-  background: hsla(321, 65%, 62%, 0.8);
-  --move-x: 20px;
-  --move-y: 10px;
-  -webkit-animation-duration: 4346ms;
-          animation-duration: 4346ms;
-  -webkit-animation-delay: -429ms;
-          animation-delay: -429ms;
+  left: 91%;
+  top: 28%;
+  background: hsla(161, 75%, 60%, 0.8);
+  --move-x: -67px;
+  --move-y: 15px;
+  -webkit-animation-duration: 2936ms;
+          animation-duration: 2936ms;
+  -webkit-animation-delay: -249ms;
+          animation-delay: -249ms;
 }
-.c-invitation__spots:nth-child(26) {
+.c-invitation__spots:nth-child(8) {
+  width: 13px;
+  height: 13px;
+  left: 40%;
+  top: 43%;
+  background: hsla(64, 59%, 61%, 0.8);
+  --move-x: -63px;
+  --move-y: 80px;
+  -webkit-animation-duration: 2966ms;
+          animation-duration: 2966ms;
+  -webkit-animation-delay: -3190ms;
+          animation-delay: -3190ms;
+}
+.c-invitation__spots:nth-child(9) {
+  width: 4px;
+  height: 4px;
+  left: 14%;
+  top: 97%;
+  background: hsla(201, 71%, 67%, 0.8);
+  --move-x: -21px;
+  --move-y: 1px;
+  -webkit-animation-duration: 2005ms;
+          animation-duration: 2005ms;
+  -webkit-animation-delay: -2732ms;
+          animation-delay: -2732ms;
+}
+.c-invitation__spots:nth-child(10) {
+  width: 10px;
+  height: 10px;
+  left: 60%;
+  top: 65%;
+  background: hsla(85, 61%, 79%, 0.8);
+  --move-x: -72px;
+  --move-y: 16px;
+  -webkit-animation-duration: 3599ms;
+          animation-duration: 3599ms;
+  -webkit-animation-delay: -1846ms;
+          animation-delay: -1846ms;
+}
+.c-invitation__spots:nth-child(11) {
+  width: 16px;
+  height: 16px;
+  left: 48%;
+  top: 65%;
+  background: hsla(221, 61%, 71%, 0.8);
+  --move-x: -67px;
+  --move-y: 26px;
+  -webkit-animation-duration: 2090ms;
+          animation-duration: 2090ms;
+  -webkit-animation-delay: -1921ms;
+          animation-delay: -1921ms;
+}
+.c-invitation__spots:nth-child(12) {
+  width: 9px;
+  height: 9px;
+  left: 29%;
+  top: 44%;
+  background: hsla(6, 67%, 65%, 0.8);
+  --move-x: 70px;
+  --move-y: -25px;
+  -webkit-animation-duration: 4040ms;
+          animation-duration: 4040ms;
+  -webkit-animation-delay: -1176ms;
+          animation-delay: -1176ms;
+}
+.c-invitation__spots:nth-child(13) {
+  width: 6px;
+  height: 6px;
+  left: 98%;
+  top: 14%;
+  background: hsla(340, 70%, 80%, 0.8);
+  --move-x: -9px;
+  --move-y: 74px;
+  -webkit-animation-duration: 4372ms;
+          animation-duration: 4372ms;
+  -webkit-animation-delay: -2191ms;
+          animation-delay: -2191ms;
+}
+.c-invitation__spots:nth-child(14) {
+  width: 13px;
+  height: 13px;
+  left: 33%;
+  top: 61%;
+  background: hsla(82, 52%, 76%, 0.8);
+  --move-x: 68px;
+  --move-y: -55px;
+  -webkit-animation-duration: 2671ms;
+          animation-duration: 2671ms;
+  -webkit-animation-delay: -831ms;
+          animation-delay: -831ms;
+}
+.c-invitation__spots:nth-child(15) {
+  width: 14px;
+  height: 14px;
+  left: 1%;
+  top: 92%;
+  background: hsla(295, 80%, 76%, 0.8);
+  --move-x: 2px;
+  --move-y: 55px;
+  -webkit-animation-duration: 2948ms;
+          animation-duration: 2948ms;
+  -webkit-animation-delay: -966ms;
+          animation-delay: -966ms;
+}
+.c-invitation__spots:nth-child(16) {
+  width: 13px;
+  height: 13px;
+  left: 53%;
+  top: 26%;
+  background: hsla(203, 61%, 56%, 0.8);
+  --move-x: -76px;
+  --move-y: -34px;
+  -webkit-animation-duration: 4004ms;
+          animation-duration: 4004ms;
+  -webkit-animation-delay: -3102ms;
+          animation-delay: -3102ms;
+}
+.c-invitation__spots:nth-child(17) {
+  width: 7px;
+  height: 7px;
+  left: 86%;
+  top: 63%;
+  background: hsla(98, 55%, 71%, 0.8);
+  --move-x: -20px;
+  --move-y: -46px;
+  -webkit-animation-duration: 3244ms;
+          animation-duration: 3244ms;
+  -webkit-animation-delay: -1832ms;
+          animation-delay: -1832ms;
+}
+.c-invitation__spots:nth-child(18) {
   width: 17px;
   height: 17px;
+  left: 79%;
+  top: 63%;
+  background: hsla(249, 69%, 71%, 0.8);
+  --move-x: -57px;
+  --move-y: -51px;
+  -webkit-animation-duration: 2667ms;
+          animation-duration: 2667ms;
+  -webkit-animation-delay: -442ms;
+          animation-delay: -442ms;
+}
+.c-invitation__spots:nth-child(19) {
+  width: 9px;
+  height: 9px;
   left: 55%;
+  top: 12%;
+  background: hsla(40, 60%, 56%, 0.8);
+  --move-x: -63px;
+  --move-y: 23px;
+  -webkit-animation-duration: 4313ms;
+          animation-duration: 4313ms;
+  -webkit-animation-delay: -1632ms;
+          animation-delay: -1632ms;
+}
+.c-invitation__spots:nth-child(20) {
+  width: 15px;
+  height: 15px;
+  left: 51%;
+  top: 11%;
+  background: hsla(20, 70%, 79%, 0.8);
+  --move-x: 29px;
+  --move-y: 79px;
+  -webkit-animation-duration: 3311ms;
+          animation-duration: 3311ms;
+  -webkit-animation-delay: -3168ms;
+          animation-delay: -3168ms;
+}
+.c-invitation__spots:nth-child(21) {
+  width: 11px;
+  height: 11px;
+  left: 71%;
   top: 82%;
-  background: hsla(314, 66%, 63%, 0.8);
-  --move-x: -1px;
-  --move-y: -15px;
-  -webkit-animation-duration: 2120ms;
-          animation-duration: 2120ms;
-  -webkit-animation-delay: -1119ms;
-          animation-delay: -1119ms;
+  background: hsla(61, 80%, 64%, 0.8);
+  --move-x: 4px;
+  --move-y: -59px;
+  -webkit-animation-duration: 2121ms;
+          animation-duration: 2121ms;
+  -webkit-animation-delay: -3929ms;
+          animation-delay: -3929ms;
+}
+.c-invitation__spots:nth-child(22) {
+  width: 8px;
+  height: 8px;
+  left: 95%;
+  top: 15%;
+  background: hsla(280, 69%, 79%, 0.8);
+  --move-x: -64px;
+  --move-y: -7px;
+  -webkit-animation-duration: 3671ms;
+          animation-duration: 3671ms;
+  -webkit-animation-delay: -504ms;
+          animation-delay: -504ms;
+}
+.c-invitation__spots:nth-child(23) {
+  width: 10px;
+  height: 10px;
+  left: 10%;
+  top: 82%;
+  background: hsla(76, 75%, 72%, 0.8);
+  --move-x: 8px;
+  --move-y: 17px;
+  -webkit-animation-duration: 3453ms;
+          animation-duration: 3453ms;
+  -webkit-animation-delay: -1033ms;
+          animation-delay: -1033ms;
+}
+.c-invitation__spots:nth-child(24) {
+  width: 15px;
+  height: 15px;
+  left: 8%;
+  top: 90%;
+  background: hsla(111, 75%, 73%, 0.8);
+  --move-x: -49px;
+  --move-y: -74px;
+  -webkit-animation-duration: 3304ms;
+          animation-duration: 3304ms;
+  -webkit-animation-delay: -3125ms;
+          animation-delay: -3125ms;
+}
+.c-invitation__spots:nth-child(25) {
+  width: 14px;
+  height: 14px;
+  left: 81%;
+  top: 39%;
+  background: hsla(243, 65%, 77%, 0.8);
+  --move-x: 12px;
+  --move-y: -56px;
+  -webkit-animation-duration: 4324ms;
+          animation-duration: 4324ms;
+  -webkit-animation-delay: -1892ms;
+          animation-delay: -1892ms;
+}
+.c-invitation__spots:nth-child(26) {
+  width: 14px;
+  height: 14px;
+  left: 43%;
+  top: 67%;
+  background: hsla(51, 72%, 69%, 0.8);
+  --move-x: -44px;
+  --move-y: 43px;
+  -webkit-animation-duration: 2659ms;
+          animation-duration: 2659ms;
+  -webkit-animation-delay: -2245ms;
+          animation-delay: -2245ms;
 }
 .c-invitation__spots:nth-child(27) {
   width: 4px;
   height: 4px;
-  left: 78%;
-  top: 7%;
-  background: hsla(188, 68%, 64%, 0.8);
-  --move-x: -73px;
-  --move-y: -34px;
-  -webkit-animation-duration: 3270ms;
-          animation-duration: 3270ms;
-  -webkit-animation-delay: -2735ms;
-          animation-delay: -2735ms;
+  left: 31%;
+  top: 73%;
+  background: hsla(111, 58%, 60%, 0.8);
+  --move-x: -63px;
+  --move-y: 32px;
+  -webkit-animation-duration: 3386ms;
+          animation-duration: 3386ms;
+  -webkit-animation-delay: -3509ms;
+          animation-delay: -3509ms;
 }
 .c-invitation__spots:nth-child(28) {
-  width: 14px;
-  height: 14px;
-  left: 44%;
-  top: 68%;
-  background: hsla(164, 74%, 67%, 0.8);
-  --move-x: 71px;
-  --move-y: 3px;
-  -webkit-animation-duration: 2485ms;
-          animation-duration: 2485ms;
-  -webkit-animation-delay: -3504ms;
-          animation-delay: -3504ms;
+  width: 4px;
+  height: 4px;
+  left: 45%;
+  top: 98%;
+  background: hsla(197, 63%, 72%, 0.8);
+  --move-x: -11px;
+  --move-y: 12px;
+  -webkit-animation-duration: 3693ms;
+          animation-duration: 3693ms;
+  -webkit-animation-delay: -2387ms;
+          animation-delay: -2387ms;
 }
 .c-invitation__spots:nth-child(29) {
-  width: 14px;
-  height: 14px;
-  left: 89%;
-  top: 44%;
-  background: hsla(290, 53%, 69%, 0.8);
-  --move-x: -44px;
-  --move-y: 48px;
-  -webkit-animation-duration: 2477ms;
-          animation-duration: 2477ms;
-  -webkit-animation-delay: -395ms;
-          animation-delay: -395ms;
-}
-.c-invitation__spots:nth-child(30) {
-  width: 5px;
-  height: 5px;
-  left: 29%;
-  top: 63%;
-  background: hsla(278, 73%, 78%, 0.8);
-  --move-x: -52px;
-  --move-y: -39px;
-  -webkit-animation-duration: 3552ms;
-          animation-duration: 3552ms;
-  -webkit-animation-delay: -2525ms;
-          animation-delay: -2525ms;
-}
-.c-invitation__spots:nth-child(31) {
-  width: 9px;
-  height: 9px;
-  left: 1%;
-  top: 79%;
-  background: hsla(6, 67%, 63%, 0.8);
-  --move-x: -70px;
-  --move-y: -43px;
-  -webkit-animation-duration: 2775ms;
-          animation-duration: 2775ms;
-  -webkit-animation-delay: -3805ms;
-          animation-delay: -3805ms;
-}
-.c-invitation__spots:nth-child(32) {
-  width: 6px;
-  height: 6px;
-  left: 5%;
-  top: 16%;
-  background: hsla(286, 79%, 70%, 0.8);
-  --move-x: 40px;
-  --move-y: 40px;
-  -webkit-animation-duration: 3748ms;
-          animation-duration: 3748ms;
-  -webkit-animation-delay: -2310ms;
-          animation-delay: -2310ms;
-}
-.c-invitation__spots:nth-child(33) {
-  width: 15px;
-  height: 15px;
-  left: 66%;
-  top: 61%;
-  background: hsla(85, 61%, 79%, 0.8);
-  --move-x: 75px;
-  --move-y: 65px;
-  -webkit-animation-duration: 3925ms;
-          animation-duration: 3925ms;
-  -webkit-animation-delay: -302ms;
-          animation-delay: -302ms;
-}
-.c-invitation__spots:nth-child(34) {
-  width: 15px;
-  height: 15px;
-  left: 5%;
-  top: 77%;
-  background: hsla(152, 58%, 75%, 0.8);
-  --move-x: 19px;
-  --move-y: 57px;
-  -webkit-animation-duration: 3168ms;
-          animation-duration: 3168ms;
-  -webkit-animation-delay: -2471ms;
-          animation-delay: -2471ms;
-}
-.c-invitation__spots:nth-child(35) {
-  width: 9px;
-  height: 9px;
-  left: 64%;
-  top: 84%;
-  background: hsla(151, 57%, 58%, 0.8);
-  --move-x: 71px;
-  --move-y: -16px;
-  -webkit-animation-duration: 2856ms;
-          animation-duration: 2856ms;
-  -webkit-animation-delay: -1579ms;
-          animation-delay: -1579ms;
-}
-.c-invitation__spots:nth-child(36) {
-  width: 11px;
-  height: 11px;
-  left: 16%;
-  top: 62%;
-  background: hsla(22, 53%, 63%, 0.8);
-  --move-x: -79px;
-  --move-y: 53px;
-  -webkit-animation-duration: 2078ms;
-          animation-duration: 2078ms;
-  -webkit-animation-delay: -3129ms;
-          animation-delay: -3129ms;
-}
-.c-invitation__spots:nth-child(37) {
   width: 17px;
   height: 17px;
-  left: 62%;
-  top: 31%;
-  background: hsla(12, 80%, 56%, 0.8);
-  --move-x: 38px;
-  --move-y: -68px;
-  -webkit-animation-duration: 3205ms;
-          animation-duration: 3205ms;
-  -webkit-animation-delay: -703ms;
-          animation-delay: -703ms;
-}
-.c-invitation__spots:nth-child(38) {
-  width: 12px;
-  height: 12px;
-  left: 87%;
-  top: 5%;
-  background: hsla(234, 59%, 59%, 0.8);
-  --move-x: 79px;
-  --move-y: 54px;
-  -webkit-animation-duration: 2332ms;
-          animation-duration: 2332ms;
-  -webkit-animation-delay: -1305ms;
-          animation-delay: -1305ms;
-}
-.c-invitation__spots:nth-child(39) {
-  width: 6px;
-  height: 6px;
-  left: 96%;
-  top: 19%;
-  background: hsla(71, 71%, 72%, 0.8);
-  --move-x: -64px;
-  --move-y: 58px;
-  -webkit-animation-duration: 3654ms;
-          animation-duration: 3654ms;
-  -webkit-animation-delay: -977ms;
-          animation-delay: -977ms;
-}
-.c-invitation__spots:nth-child(40) {
-  width: 6px;
-  height: 6px;
-  left: 92%;
-  top: 97%;
-  background: hsla(167, 55%, 57%, 0.8);
-  --move-x: -58px;
+  left: 70%;
+  top: 35%;
+  background: hsla(34, 80%, 68%, 0.8);
+  --move-x: 36px;
   --move-y: -26px;
-  -webkit-animation-duration: 2764ms;
-          animation-duration: 2764ms;
-  -webkit-animation-delay: -235ms;
-          animation-delay: -235ms;
+  -webkit-animation-duration: 3949ms;
+          animation-duration: 3949ms;
+  -webkit-animation-delay: -3267ms;
+          animation-delay: -3267ms;
 }
-.c-invitation__spots:nth-child(41) {
-  width: 11px;
-  height: 11px;
-  left: 44%;
-  top: 86%;
-  background: hsla(156, 70%, 79%, 0.8);
-  --move-x: 7px;
-  --move-y: 67px;
-  -webkit-animation-duration: 2222ms;
-          animation-duration: 2222ms;
-  -webkit-animation-delay: -2479ms;
-          animation-delay: -2479ms;
-}
-.c-invitation__spots:nth-child(42) {
-  width: 5px;
-  height: 5px;
-  left: 95%;
-  top: 44%;
-  background: hsla(280, 56%, 72%, 0.8);
-  --move-x: -6px;
-  --move-y: 43px;
-  -webkit-animation-duration: 4212ms;
-          animation-duration: 4212ms;
-  -webkit-animation-delay: -2732ms;
-          animation-delay: -2732ms;
-}
-.c-invitation__spots:nth-child(43) {
-  width: 9px;
-  height: 9px;
-  left: 46%;
-  top: 92%;
-  background: hsla(268, 57%, 59%, 0.8);
-  --move-x: -63px;
-  --move-y: -59px;
-  -webkit-animation-duration: 3480ms;
-          animation-duration: 3480ms;
-  -webkit-animation-delay: -2997ms;
-          animation-delay: -2997ms;
-}
-.c-invitation__spots:nth-child(44) {
-  width: 6px;
-  height: 6px;
-  left: 75%;
-  top: 84%;
-  background: hsla(284, 78%, 62%, 0.8);
-  --move-x: -18px;
-  --move-y: 25px;
-  -webkit-animation-duration: 3080ms;
-          animation-duration: 3080ms;
-  -webkit-animation-delay: -2528ms;
-          animation-delay: -2528ms;
-}
-.c-invitation__spots:nth-child(45) {
-  width: 11px;
-  height: 11px;
-  left: 75%;
-  top: 70%;
-  background: hsla(350, 79%, 79%, 0.8);
-  --move-x: -9px;
-  --move-y: 44px;
-  -webkit-animation-duration: 4262ms;
-          animation-duration: 4262ms;
-  -webkit-animation-delay: -1045ms;
-          animation-delay: -1045ms;
-}
-.c-invitation__spots:nth-child(46) {
-  width: 8px;
-  height: 8px;
-  left: 27%;
-  top: 43%;
-  background: hsla(322, 80%, 76%, 0.8);
-  --move-x: -11px;
-  --move-y: 27px;
-  -webkit-animation-duration: 2236ms;
-          animation-duration: 2236ms;
-  -webkit-animation-delay: -3888ms;
-          animation-delay: -3888ms;
-}
-.c-invitation__spots:nth-child(47) {
+.c-invitation__spots:nth-child(30) {
   width: 10px;
   height: 10px;
-  left: 7%;
-  top: 68%;
-  background: hsla(35, 76%, 68%, 0.8);
-  --move-x: 17px;
-  --move-y: -18px;
-  -webkit-animation-duration: 4485ms;
-          animation-duration: 4485ms;
-  -webkit-animation-delay: -3272ms;
-          animation-delay: -3272ms;
-}
-.c-invitation__spots:nth-child(48) {
-  width: 11px;
-  height: 11px;
-  left: 42%;
+  left: 14%;
   top: 90%;
-  background: hsla(7, 56%, 72%, 0.8);
-  --move-x: 28px;
-  --move-y: -59px;
-  -webkit-animation-duration: 3036ms;
-          animation-duration: 3036ms;
-  -webkit-animation-delay: -893ms;
-          animation-delay: -893ms;
+  background: hsla(204, 66%, 57%, 0.8);
+  --move-x: 39px;
+  --move-y: 7px;
+  -webkit-animation-duration: 3743ms;
+          animation-duration: 3743ms;
+  -webkit-animation-delay: -712ms;
+          animation-delay: -712ms;
 }
-.c-invitation__spots:nth-child(49) {
+.c-invitation__spots:nth-child(31) {
+  width: 4px;
+  height: 4px;
+  left: 93%;
+  top: 23%;
+  background: hsla(293, 68%, 74%, 0.8);
+  --move-x: -13px;
+  --move-y: 73px;
+  -webkit-animation-duration: 4236ms;
+          animation-duration: 4236ms;
+  -webkit-animation-delay: -119ms;
+          animation-delay: -119ms;
+}
+.c-invitation__spots:nth-child(32) {
+  width: 4px;
+  height: 4px;
+  left: 9%;
+  top: 19%;
+  background: hsla(255, 79%, 72%, 0.8);
+  --move-x: -49px;
+  --move-y: -69px;
+  -webkit-animation-duration: 3860ms;
+          animation-duration: 3860ms;
+  -webkit-animation-delay: -2131ms;
+          animation-delay: -2131ms;
+}
+.c-invitation__spots:nth-child(33) {
+  width: 8px;
+  height: 8px;
+  left: 66%;
+  top: 50%;
+  background: hsla(65, 75%, 66%, 0.8);
+  --move-x: 46px;
+  --move-y: -45px;
+  -webkit-animation-duration: 4434ms;
+          animation-duration: 4434ms;
+  -webkit-animation-delay: -377ms;
+          animation-delay: -377ms;
+}
+.c-invitation__spots:nth-child(34) {
+  width: 9px;
+  height: 9px;
+  left: 41%;
+  top: 87%;
+  background: hsla(217, 72%, 68%, 0.8);
+  --move-x: -31px;
+  --move-y: -39px;
+  -webkit-animation-duration: 2384ms;
+          animation-duration: 2384ms;
+  -webkit-animation-delay: -2930ms;
+          animation-delay: -2930ms;
+}
+.c-invitation__spots:nth-child(35) {
+  width: 12px;
+  height: 12px;
+  left: 84%;
+  top: 83%;
+  background: hsla(243, 74%, 63%, 0.8);
+  --move-x: -12px;
+  --move-y: -60px;
+  -webkit-animation-duration: 3092ms;
+          animation-duration: 3092ms;
+  -webkit-animation-delay: -1615ms;
+          animation-delay: -1615ms;
+}
+.c-invitation__spots:nth-child(36) {
+  width: 13px;
+  height: 13px;
+  left: 20%;
+  top: 31%;
+  background: hsla(336, 60%, 76%, 0.8);
+  --move-x: 70px;
+  --move-y: 55px;
+  -webkit-animation-duration: 4329ms;
+          animation-duration: 4329ms;
+  -webkit-animation-delay: -3304ms;
+          animation-delay: -3304ms;
+}
+.c-invitation__spots:nth-child(37) {
   width: 5px;
   height: 5px;
-  left: 48%;
-  top: 75%;
-  background: hsla(236, 53%, 79%, 0.8);
-  --move-x: -44px;
-  --move-y: 52px;
-  -webkit-animation-duration: 4284ms;
-          animation-duration: 4284ms;
-  -webkit-animation-delay: -1480ms;
-          animation-delay: -1480ms;
+  left: 70%;
+  top: 74%;
+  background: hsla(182, 68%, 75%, 0.8);
+  --move-x: 75px;
+  --move-y: -35px;
+  -webkit-animation-duration: 4058ms;
+          animation-duration: 4058ms;
+  -webkit-animation-delay: -8ms;
+          animation-delay: -8ms;
 }
-.c-invitation__spots:nth-child(50) {
-  width: 14px;
-  height: 14px;
-  left: 87%;
-  top: 9%;
-  background: hsla(260, 80%, 70%, 0.8);
-  --move-x: -72px;
-  --move-y: 7px;
-  -webkit-animation-duration: 4095ms;
-          animation-duration: 4095ms;
-  -webkit-animation-delay: -990ms;
-          animation-delay: -990ms;
+.c-invitation__spots:nth-child(38) {
+  width: 8px;
+  height: 8px;
+  left: 25%;
+  top: 85%;
+  background: hsla(286, 58%, 56%, 0.8);
+  --move-x: -59px;
+  --move-y: 35px;
+  -webkit-animation-duration: 2578ms;
+          animation-duration: 2578ms;
+  -webkit-animation-delay: -3611ms;
+          animation-delay: -3611ms;
 }
-.c-invitation__spots:nth-child(51) {
-  width: 14px;
-  height: 14px;
-  left: 89%;
-  top: 81%;
-  background: hsla(307, 70%, 75%, 0.8);
-  --move-x: -21px;
-  --move-y: -56px;
-  -webkit-animation-duration: 3037ms;
-          animation-duration: 3037ms;
-  -webkit-animation-delay: -3874ms;
-          animation-delay: -3874ms;
+.c-invitation__spots:nth-child(39) {
+  width: 7px;
+  height: 7px;
+  left: 55%;
+  top: 96%;
+  background: hsla(201, 71%, 73%, 0.8);
+  --move-x: -30px;
+  --move-y: -38px;
+  -webkit-animation-duration: 3521ms;
+          animation-duration: 3521ms;
+  -webkit-animation-delay: -2806ms;
+          animation-delay: -2806ms;
 }
-.c-invitation__spots:nth-child(52) {
+.c-invitation__spots:nth-child(40) {
   width: 11px;
   height: 11px;
+  left: 46%;
+  top: 55%;
+  background: hsla(252, 74%, 67%, 0.8);
+  --move-x: -51px;
+  --move-y: -54px;
+  -webkit-animation-duration: 2434ms;
+          animation-duration: 2434ms;
+  -webkit-animation-delay: -2671ms;
+          animation-delay: -2671ms;
+}
+.c-invitation__spots:nth-child(41) {
+  width: 6px;
+  height: 6px;
+  left: 28%;
+  top: 28%;
+  background: hsla(237, 52%, 74%, 0.8);
+  --move-x: -70px;
+  --move-y: -29px;
+  -webkit-animation-duration: 3286ms;
+          animation-duration: 3286ms;
+  -webkit-animation-delay: -3215ms;
+          animation-delay: -3215ms;
+}
+.c-invitation__spots:nth-child(42) {
+  width: 17px;
+  height: 17px;
+  left: 45%;
+  top: 3%;
+  background: hsla(132, 77%, 60%, 0.8);
+  --move-x: 47px;
+  --move-y: -3px;
+  -webkit-animation-duration: 3460ms;
+          animation-duration: 3460ms;
+  -webkit-animation-delay: -3778ms;
+          animation-delay: -3778ms;
+}
+.c-invitation__spots:nth-child(43) {
+  width: 12px;
+  height: 12px;
+  left: 53%;
+  top: 98%;
+  background: hsla(123, 77%, 69%, 0.8);
+  --move-x: -14px;
+  --move-y: -5px;
+  -webkit-animation-duration: 2953ms;
+          animation-duration: 2953ms;
+  -webkit-animation-delay: -1373ms;
+          animation-delay: -1373ms;
+}
+.c-invitation__spots:nth-child(44) {
+  width: 11px;
+  height: 11px;
+  left: 72%;
+  top: 96%;
+  background: hsla(26, 73%, 80%, 0.8);
+  --move-x: -66px;
+  --move-y: 76px;
+  -webkit-animation-duration: 4366ms;
+          animation-duration: 4366ms;
+  -webkit-animation-delay: -236ms;
+          animation-delay: -236ms;
+}
+.c-invitation__spots:nth-child(45) {
+  width: 9px;
+  height: 9px;
+  left: 80%;
+  top: 12%;
+  background: hsla(281, 67%, 60%, 0.8);
+  --move-x: -38px;
+  --move-y: -51px;
+  -webkit-animation-duration: 4003ms;
+          animation-duration: 4003ms;
+  -webkit-animation-delay: -2335ms;
+          animation-delay: -2335ms;
+}
+.c-invitation__spots:nth-child(46) {
+  width: 15px;
+  height: 15px;
+  left: 78%;
+  top: 68%;
+  background: hsla(125, 80%, 72%, 0.8);
+  --move-x: 69px;
+  --move-y: 41px;
+  -webkit-animation-duration: 3397ms;
+          animation-duration: 3397ms;
+  -webkit-animation-delay: -3742ms;
+          animation-delay: -3742ms;
+}
+.c-invitation__spots:nth-child(47) {
+  width: 7px;
+  height: 7px;
   left: 67%;
-  top: 35%;
-  background: hsla(163, 68%, 68%, 0.8);
-  --move-x: 15px;
-  --move-y: -63px;
-  -webkit-animation-duration: 3364ms;
-          animation-duration: 3364ms;
-  -webkit-animation-delay: -2691ms;
-          animation-delay: -2691ms;
+  top: 10%;
+  background: hsla(100, 70%, 56%, 0.8);
+  --move-x: 79px;
+  --move-y: -10px;
+  -webkit-animation-duration: 3516ms;
+          animation-duration: 3516ms;
+  -webkit-animation-delay: -1644ms;
+          animation-delay: -1644ms;
+}
+.c-invitation__spots:nth-child(48) {
+  width: 16px;
+  height: 16px;
+  left: 51%;
+  top: 33%;
+  background: hsla(123, 70%, 59%, 0.8);
+  --move-x: -41px;
+  --move-y: -72px;
+  -webkit-animation-duration: 3646ms;
+          animation-duration: 3646ms;
+  -webkit-animation-delay: -3437ms;
+          animation-delay: -3437ms;
+}
+.c-invitation__spots:nth-child(49) {
+  width: 7px;
+  height: 7px;
+  left: 28%;
+  top: 91%;
+  background: hsla(157, 52%, 60%, 0.8);
+  --move-x: 2px;
+  --move-y: 37px;
+  -webkit-animation-duration: 2725ms;
+          animation-duration: 2725ms;
+  -webkit-animation-delay: -2178ms;
+          animation-delay: -2178ms;
+}
+.c-invitation__spots:nth-child(50) {
+  width: 4px;
+  height: 4px;
+  left: 86%;
+  top: 20%;
+  background: hsla(14, 66%, 63%, 0.8);
+  --move-x: 48px;
+  --move-y: -70px;
+  -webkit-animation-duration: 2657ms;
+          animation-duration: 2657ms;
+  -webkit-animation-delay: -2757ms;
+          animation-delay: -2757ms;
+}
+.c-invitation__spots:nth-child(51) {
+  width: 13px;
+  height: 13px;
+  left: 78%;
+  top: 25%;
+  background: hsla(246, 70%, 61%, 0.8);
+  --move-x: -73px;
+  --move-y: -71px;
+  -webkit-animation-duration: 4042ms;
+          animation-duration: 4042ms;
+  -webkit-animation-delay: -3064ms;
+          animation-delay: -3064ms;
+}
+.c-invitation__spots:nth-child(52) {
+  width: 8px;
+  height: 8px;
+  left: 87%;
+  top: 24%;
+  background: hsla(70, 55%, 59%, 0.8);
+  --move-x: -25px;
+  --move-y: 65px;
+  -webkit-animation-duration: 3106ms;
+          animation-duration: 3106ms;
+  -webkit-animation-delay: -1235ms;
+          animation-delay: -1235ms;
 }
 
 @-webkit-keyframes invitation-spot {
@@ -959,6 +959,9 @@ body {
 }
 .c-invitation-detail__tx3 {
   font-size: 18px;
+}
+.c-invitation-detail__tx3 + .c-invitation-detail__tx3 {
+  margin-top: 2%;
 }
 .c-invitation-detail__tx5 {
   font-size: 26px;
